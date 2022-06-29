@@ -1,0 +1,1 @@
+java -jar EEVectROM.jar -banks -cvs -eep -f E:\ELEC\Vectrex\1\GAME
